@@ -1,0 +1,16 @@
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\Debug\MiniProjetDotNet1.exe
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\Debug\MiniProjetDotNet1.exe.config
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\Debug\System.Data.OleDb.dll
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\Debug\System.Data.OleDb.xml
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.Form1.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.Form2.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.Form3.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.exe
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.pdb
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\Debug\MiniProjetDotNet1.pdb
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\Debug\MiniProjetDotNet1.Form4.resources

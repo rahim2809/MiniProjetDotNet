@@ -1,0 +1,80 @@
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe.config
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.pdb
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.dll
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.xml
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form1.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form2.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form3.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form4.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.exe
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.pdb
+C:\mes projets DOTNET\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe.config
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form1.resources
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form2.resources
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form3.resources
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form4.resources
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\Anouar\Desktop\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe.config
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form1.resources
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form2.resources
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form3.resources
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form4.resources
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\Anouar\Desktop\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe.config
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form1.resources
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form2.resources
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form3.resources
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form4.resources
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\rahim\Documents\4ème_Année\Semestre_1\.NET\DOTNET_PROJET\MiniProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe.config
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\MiniProjetDotNet1.pdb
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csprojAssemblyReference.cache
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form1.resources
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form2.resources
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form3.resources
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Form4.resources
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.Properties.Resources.resources
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.GenerateResource.cache
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CoreCompileInputs.cache
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.csproj.CopyComplete
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.exe
+C:\Users\rahim\Documents\ProjetDotNet\MiniProjetDotNet\MiniProjetDotNet1\obj\x86\Debug\MiniProjetDotNet1.pdb
